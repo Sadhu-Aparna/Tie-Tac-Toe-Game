@@ -1,0 +1,1 @@
+Built an interactive Tic-Tac-Toe game in Python featuring player vs computer mode. Implemented game logic using data structures and conditional statements, along with a basic AI that prioritizes winning and blocking moves.
